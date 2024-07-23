@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft Excel, Power BI and SQL
 - 📫 How to reach me on jonathanojes@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: started my SQL journey in 2009 and revisited it in 2024...always learning.
 
 <!---
 JonaJona-Naruto/JonaJona-Naruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
